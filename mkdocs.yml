@@ -1,16 +1,19 @@
 site_name: Block Fortress Documentation
+site_url: https://docs.blockfortress.net
+site_description: Documentation for Block Fortress.
 theme:
   name: material
-extra_css:
+  extra_css:
   - stylesheets/extra.css
-features:
-  - navigation.sections
-  - navigation.expand
-  - toc.integrate
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
 markdown_extensions:
   - admonition
   - pymdownx.superfences
   - pymdownx.details
+  - def_list
   - attr_list
   - pymdownx.tabbed
   - pymdownx.tilde
