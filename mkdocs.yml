@@ -1,3 +1,19 @@
 site_name: Block Fortress Documentation
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
+features:
+  - navigation.sections
+  - navigation.expand
+  - toc.integrate
+markdown_extensions:
+  - toc:
+      permalink: true
+nav:
+  # Do not use '\', it will explode the build system
+  - Overview: 'index.md'
+  - 'Commands.md'
+  - Wand Tool:
+    - 'Wand/GettingStarted.md'
+    - 'Wand/BlockList.md'
