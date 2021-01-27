@@ -8,6 +8,15 @@ features:
   - navigation.expand
   - toc.integrate
 markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
 nav:
