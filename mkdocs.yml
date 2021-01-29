@@ -17,6 +17,10 @@ theme:
     - toc.integrate
   icon:
     repo: fontawesome/brands/git-alt
+copyright: Copyright &copy; 2019 - 2021 BlackTeam Corporation
+
+We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Novalink LLC, or any of its subsidiaries or its affiliates. The official NovaLink LCC website can be found at https://novalink.games/.
+The names BLOCKADE and NovaLink as well as related names, marks, emblems, images, assets are registered trademarks of their respective owners.
 markdown_extensions:
   - admonition
   - pymdownx.superfences
