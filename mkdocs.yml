@@ -17,7 +17,10 @@ theme:
     - toc.integrate
   icon:
     repo: fontawesome/brands/git-alt
-copyright: **BlackTeam Corporation &copy; 2021** &nbsp;*We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Novalink LLC. Any related names, marks, emblems, images, assets are registered trademarks of their respective owners.*
+copyright: >  
+BlackTeam Corporation &copy; 2021\n
+\n
+We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Novalink LLC. Any related names, marks, emblems, images, assets are registered trademarks of their respective owners.
 markdown_extensions:
   - admonition
   - pymdownx.superfences
