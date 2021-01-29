@@ -1,16 +1,22 @@
 site_name: Block Fortress Documentation
 site_url: https://docs.blockfortress.net
 site_description: Documentation for Block Fortress.
+repo_url: https://github.com/BlackTeam-Corporation/blockfortress-docs
+repo_name: blockfortress-docs
 extra_css:
   - stylesheets/extra.css
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - tabs
     - instant
     - sections
     - expand
     - toc.integrate
+  icon:
+    repo: fontawesome/brands/git-alt
 markdown_extensions:
   - admonition
   - pymdownx.superfences
@@ -30,5 +36,5 @@ nav:
   - 'faq.md'
   - 'commands.md'
   - Wand Tool:
-    - 'Wand/introduction.md'
-    - 'Wand/blocks.md'
+    - 'wand/introduction.md'
+    - 'wand/blocks.md'
