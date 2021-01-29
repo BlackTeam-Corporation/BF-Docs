@@ -7,8 +7,8 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: img/blockfortress.png
+  favicon: img/favicon.ico
   features:
     - tabs
     - instant
@@ -31,7 +31,6 @@ markdown_extensions:
   - toc:
       permalink: true
 nav:
-  # Do not use '\', it will explode the build system
   - Overview: 'index.md'
   - 'faq.md'
   - 'commands.md'
