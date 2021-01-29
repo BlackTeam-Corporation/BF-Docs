@@ -3,7 +3,7 @@ site_url: https://docs.blockfortress.net
 site_description: Documentation for Block Fortress.
 theme:
   name: material
- extra_css:
+extra_css:
   - stylesheets/extra.css
   features:
     - tabs
@@ -27,7 +27,8 @@ markdown_extensions:
 nav:
   # Do not use '\', it will explode the build system
   - Overview: 'index.md'
-  - 'Commands.md'
+  - 'faq.md'
+  - 'commands.md'
   - Wand Tool:
-    - 'Wand/GettingStarted.md'
-    - 'Wand/BlockList.md'
+    - 'Wand/introduction.md'
+    - 'Wand/blocks.md'
