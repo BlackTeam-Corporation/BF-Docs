@@ -27,7 +27,7 @@ extra:
       link: https://steamcommunity.com/groups/BlockFortressFPS
     - icon: fontawesome/solid/lightbulb
       link: https://feedback.blockfortress.net/b/project 
-copyright: 2021 &copy; BlackTeam Corporation<br><small>We are not in no way, shape or form affiliated with <a href="https://novalink.games/">Novalink LLC</a>&#8482; or any of its subsidiaries or its affiliates. BLOCKADE&#8482; as well as any other related names, images and assets are registered trademarks of their respective owners.</small> 
+copyright: 2021 &copy; BlackTeam Corporation<br><small>We are in no way, shape or form affiliated with <a href="https://novalink.games/">Novalink LLC</a>&#8482; or any of its subsidiaries. BLOCKADE 3D&#8482; as well as any other related names, images and assets are registered trademarks of their respective owners.</small> 
 markdown_extensions:
   - admonition
   - pymdownx.superfences
