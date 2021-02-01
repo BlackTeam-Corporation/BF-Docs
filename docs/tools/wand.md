@@ -99,7 +99,7 @@ Add description
 | ![](textures/Danger.png) 			   | Danger 			| warning 			|
 | ![](textures/ElectricBox.png) 	   | ElectricBox 		| electricbox 		|
 | ![](textures/Leaf.png) 			   | Leaf 				| leaf 				|
-| ![](textures/AncientMarble.png) 	   | AncientMarble 		| marbleancient 	|
+| ![](textures/AncientMarble.png) 	   | AncientMarble 		| ancientmarble 	|
 | ![](textures/PizzaOven.png) 		   | PizzaOven 			| furnace 			|
 | ![](textures/Tile.png) 			   | Tile 				| rooftop 			|
 | ![](textures/Sand2.png) 			   | Sand2 				| redsand			|	
