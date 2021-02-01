@@ -1,7 +1,5 @@
-:warning: **This is not the final version.**
-
 !!! exemple ""
-	Last updated: **January 29, 2021.**
+	Last updated: **January 31, 2021.**
 
 Here at BlackTeam Corporation we are striving to create a non-toxic and friendly environement for everyone to enjoy. 
 
@@ -10,33 +8,39 @@ We developed Block Fortress in order for old players of the BLOCKADE 3D era to r
 The following guidelines have been created in order to ensure that our goals are met and understood by everyone. If you see someone not following them make sure to report it to us via our [Discord server]() or by emailing us at blockfortressfps@gmail.com.
 
 ## Common things to follow
-1. **You must be 13+ of age in order to play Block Fortress.** We are enforcing the [Children's Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule).
-2. **Be respectful towards other players including/or any staff members.** Participating or encouraging harassment towards other players won't be tolerated, if you are victim of this contact a staff member immediately.  
-3. **Do not organize or promote clans that are based arround hate speech.** Organizing or promoting clans for the sole purpose of attacking a person on attributes based on their race, ethnicity, national origin, sex, gender, sexual orientation, religious affiliation or disabilities is unacceptable.
-4. **Do not threaten of violence to another player.** This includes indirect threats were telling us that "I was just joking" will be punishable as well as threatening to share another player's private personal information (doxxing) such as their name, address, picture, password or others.
-5. **Do not spam the in-game chats.** It is meant to be an useful communication method or to simply ask for help and make new friends, spamming them with copypastas or meaningless letters is not recommended.
-6. **Do not send viruses or malware.** We have no tolerance on shady users trying to phish attack or DDoS other players by sending maliscious links.
-7. **Do not spam a developer if you encounter a bug.** Check out the dedicated channel on our Discord server meant to report bugs or/and players.
-8. **Do not beg a developer to become admin.** We won't give administrator to players that aren't qualified for the job so don't bother asking, announcements will be made once we are in need and by begging us you are blocking any chance that you have if applying. 
+1. **You must at least be 13 years old in order to play Block Fortress.** We are enforcing the [Children's Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule).
+2. **Be respectful towards players and staff members.** Participating or encouraging harassment won't be tolerated, contact a staff member immediately if you are victim of harassement.
+3. **Do not organize or promote hate speech.** Organizing or promoting hate speech for the sole purpose of attacking a person on attributes based on their race, ethnicity, national origin, sex, gender, sexual orientation, religious affiliation or disabilities is unacceptable.
+4. **Do not threaten of violence another player.** This includes indirect threats were telling us that "I was just joking" will be punishable as well as threatening to share a player's private personal information (doxxing) such as their name, address, picture, password or others.
+5. **Do not spam the in-game chats.** They are meant to be an useful communication method, to ask for help or/and make new friends.
+6. **Do not send viruses or malware.** Attempting to DDoS or phish attack another player by sending links to maliscious sites is not permitted. 
+7. **Do not spam a developer if you encounter a bug.** We have dedicated channels on our Discord server meant to report bugs or/and players, use them.
+8. **Do not beg a developer to become staff.** We only recruit new staff members via an official form, announcements are made when we are looking for new trainees and by begging us, your chance of being accepted becomes low.
 9. **Do not beg a staff member to give you access to unfair items or powers.** Begging for things such as more health, changing your player size, changing your in-game nickname or anything of the sorts will result in a server kick.
+1. **Do not advertise other games.** We ask that you don't advertise other games when using in-game chats. You can talk about other games but sponsoring it is not allowed.
 
 ## What to not do with your account
 
 !!! danger "You bear full responsability of your account!"
-	You will be punished even if an act was commited on your account by someone else. ^^**Do not share your password with someone else.**^^
+	You will be punished even if an act was commited on your account by someone else. ^^**Remember to not share your account password with someone else.**^^
 1. **Do not promote and/or use any kinds of cheating software.** This is obvious to pretty much anyone but play fair and don't cheat, it is also recommended that you don't joke about owning a cheat.
-2. **Do not falsly accuse another player.** Wasting a staff member's time by falsly accusing another player with no proof and reason is unnaceptable especially because you were mad at them. 
-3. **Do not pretend to be a staff member.** Pretending and usurping the identity of an official Block Fortress staff member is not tolerated.
-4. **Do not try to break the game or it's servers by any means.** You will be permanently banned from our community if you try in any way to permanently damage the games including it's servers.
-5. **You may not attempt to scam a player outside of Block Fortress.** We will not tolerate you trying to scam a player outside the game/community. If you find yourself victim of this, contact a staff member immediately. 
+2. **Do not falsly accuse another player.** Wasting the time of a staff member by falsly accusing another player without providing any real proof or reason is unnaceptable *especially* because of rage. 
+3. **Do not pretend to be a staff member.** Usurping the identity of an official Block Fortress staff member is not tolerated.
+4. **Do not attempt by any means to break the game.** You will be permanently banned if you have attempted to break the game or by DDoSiNg[^1] our servers for the sole purpose of killing the enjoyments for other players.
+5. **Do not attempt by any means to scam a player.** We will punish any user that attempts to scam a player outside of the game/community. Contact a staff member immediately if you are victim of scam.
 
 ## Our policy
 - **You must and will respect the privacy of our staff team.** Stalking and annoying a staff outside of the game/community is a bannable offense.
-- **You must read and agree to our guidelines before playing.** We will not tolerate any excuses of "I did not know that".
+- **You must read and agree to our guidelines before playing.** We will not tolerate any excuses of "I didn't know that".
 - **It is your duty to report anyone not respecting our guidelines.** We will punish you if you fail to report a rule-breaking player.
 - **We are not responsible if you can't play the game.** We will be happy to help you fix your problem as long as you stay calm and polite.
 
 ### We reserve the rights
-- to take any actions agaisnt you at our own will.
+- to take any actions at any moment agaisnt you.
 - to kick you if you do not aknowledge a staff warning in-game.
+- to permanently ban you from the game or community.
 - to edit at any moments these guidelines without prior notice.
+
+Enjoy your time playing Block Fortress!
+
+[^1]: DDoSiNg means to send a lot of large packets using a specific IP Address to crash a targeted host.

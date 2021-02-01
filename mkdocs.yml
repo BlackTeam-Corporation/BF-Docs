@@ -30,10 +30,11 @@ extra:
 copyright: 2021 &copy; BlackTeam Corporation<br><small>We are not in no way, shape or form affiliated with <a href="https://novalink.games/">Novalink LLC</a>&#8482; or any of its subsidiaries or its affiliates. BLOCKADE&#8482; as well as any other related names, images and assets are registered trademarks of their respective owners.</small> 
 markdown_extensions:
   - admonition
-  - pymdownx.superfences
-  - pymdownx.details
   - def_list
   - attr_list
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
   - pymdownx.tabbed
   - pymdownx.tilde
   - pymdownx.caret
@@ -49,7 +50,12 @@ nav:
     - 'information/terms.md'
     - 'information/guidelines.md'
     - 'information/faq.md'
+    - 'information/credits.md'
   - Tools:
     - 'tools/wand.md'
+  - Curated Maps:
+    - 'maps/asix.md'
+    - 'maps/bazaar.md'
+    - 'maps/bridge.md'
   - Miscellaneous:
     - 'miscellaneous/commands.md'
