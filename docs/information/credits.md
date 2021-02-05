@@ -1,5 +1,5 @@
 !!! exemple ""
-	Last updated: **February 4, 2021.**
+	Last updated: **February 5, 2021.**
 
 List of the awesome people that helped us make Block Fortress what it currently is. 
 
@@ -34,7 +34,7 @@ Current BLOCKADE 3D assets existing in Block Fortress are property of their resp
 
 ## Special Thanks
 - <p style="text-align:left;">Yanné13<span style="float:right;"><small>Legal advice</small></span></p>
-- <p style="text-align:left;">Player<span style="float:right;"><small>Helped setup [Feedbacky](https://feedback.blockfortress.net/b/project)</small></span></p>
+- <p style="text-align:left;">Plajer<span style="float:right;"><small>Helped setup [Feedbacky](https://feedback.blockfortress.net/b/project)</small></span></p>
 - <p style="text-align:left;">The Modmail team<span style="float:right;"><small>Helped setup [Modmail](https://github.com/kyb3r/modmail)</small></span></p>
 
 ## Contributors
