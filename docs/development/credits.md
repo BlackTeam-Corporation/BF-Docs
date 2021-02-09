@@ -17,10 +17,10 @@ Current BLOCKADE 3D assets existing in Block Fortress are property of their resp
 - <p style="text-align:left;">Piotr Krankiewicz<span style="float:right;"><small>Player model and Fists</small></span></p>
 - <p style="text-align:left;">Wilk<span style="float:right;"><small>Fists</small></span></p>
 ### Model
-- <p style="text-align:left;">animation__3dc<span style="float:right;"><small>Player</small></span></p>
-- <p style="text-align:left;">Sniped<span style="float:right;"><small>Player</small></span></p>
-- <p style="text-align:left;">ErPiX<span style="float:right;"><small>Player</small></p>
-- <p style="text-align:left;">Slastraf <span style="float:right;"><small>Player</small></span></p>
+- <p style="text-align:left;">animation__3dc<span style="float:right;"><small>Playermodel</small></span></p>
+- <p style="text-align:left;">Sniped<span style="float:right;"><small>Playermodel</small></span></p>
+- <p style="text-align:left;">ErPiX<span style="float:right;"><small>Playermodel</small></p>
+- <p style="text-align:left;">Slastraf <span style="float:right;"><small>Playermodel</small></span></p>
 ### Artist
 - <p style="text-align:left;">Mathias Pepin-Leduc<span style="float:right;"><small>Player model concept</small></p>
 - <p style="text-align:left;">koshevchuk<span style="float:right;"><small>UI concept</small></span></p>
