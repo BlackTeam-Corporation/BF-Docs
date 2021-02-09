@@ -5,8 +5,14 @@ repo_url: https://github.com/BlackTeam-Corporation/blockfortress-docs
 repo_name: blockfortress-docs
 extra_css:
   - stylesheets/extra.css
+plugins:
+  - git-revision-date
+  - search
 theme:
   name: material
+  palette:
+    scheme: blockfortress
+  custom_dir: overrides
   logo: img/blockfortress.png
   favicon: img/favicon.ico
   features:
@@ -14,9 +20,13 @@ theme:
     - instant
     - sections
     - expand
-    - toc.integrate
+#    - toc.integrate
+    - header.autohide
+    - navigation.tabs
+#    - navigation.sections
   icon:
     repo: fontawesome/brands/git-alt
+
 extra:
   social:
     - icon: fontawesome/brands/discord
@@ -27,8 +37,11 @@ extra:
       link: https://steamcommunity.com/groups/BlockFortressFPS
     - icon: fontawesome/solid/lightbulb
       link: https://feedback.blockfortress.net/b/project 
-copyright: 2021 &copy; BlackTeam Corporation<br><small>We are in no way, shape or form affiliated with <a href="https://novalink.games/">Novalink LLC</a>&#8482; or any of its subsidiaries. BLOCKADE 3D&#8482; as well as any other related names, images and assets are registered trademarks of their respective owners.</small> 
+
+copyright: 2021 &copy; BlackTeam Corporation<br><small>We are in no way, shape or form affiliated with <a href="https://novalink.games/">Novalink LLC</a>&#8482; or any of its subsidiaries. BLOCKADE 3D&#8482; as well as any other related names, images and assets are registered trademarks of their respective owners.</small><br> 
+
 markdown_extensions:
+  - meta
   - admonition
   - def_list
   - attr_list
@@ -44,19 +57,31 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
+
 nav:
-  - Overview: 'index.md'
-  - Information:
-    - 'information/terms.md'
-    - 'information/guidelines.md'
-    - 'information/faq.md'
-    - 'information/staff.md'
-    - 'information/credits.md'
+- 'index.md'
+- Development:
+  - 'development/changelog.md'
+  - 'development/feedback.md'
+  - 'development/faq.md'
+  - 'development/credits.md'
+- Getting Started:
+  - 'getting_started/commands.md'
   - Tools:
-    - 'tools/wand.md'
-  - Curated Maps:
-    - 'maps/asix.md'
-    - 'maps/bazaar.md'
-    - 'maps/bridge.md'
-  - Miscellaneous:
-    - 'miscellaneous/commands.md'
+      - 'getting_started/tools/wand.md'
+  - Private Servers:
+      - 'getting_started/private_servers/introduction.md'
+  - Game Modes:
+      - 'getting_started/game_modes/battle.md'
+      - 'getting_started/game_modes/versus.md'
+      - 'getting_started/game_modes/build.md'
+      - 'getting_started/game_modes/deathmatch.md'
+      - 'getting_started/game_modes/cleaner.md'
+  - Maps:
+      - 'getting_started/maps/asix.md'
+      - 'getting_started/maps/bazaar.md'
+      - 'getting_started/maps/bridge.md'
+- Support:
+    - 'support/guidelines.md'
+    - Legal:
+        - 'support/legal/terms.md'

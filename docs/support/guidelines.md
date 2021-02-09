@@ -1,5 +1,9 @@
-!!! exemple ""
-	Last updated: **January 31, 2021.**
+---
+hide:
+  - toc
+---
+
+![](../img/BlockFortressBeta.png){: height="500px" width="500px"}
 
 Here at BlackTeam Corporation we are striving to create a non-toxic and friendly environement for everyone to enjoy. 
 
@@ -26,7 +30,7 @@ The following guidelines have been created in order to ensure that our goals are
 1. **Do not promote and/or use any kinds of cheating software.** This is obvious to pretty much anyone but play fair and don't cheat, it is also recommended that you don't joke about owning a cheat.
 2. **Do not falsly accuse another player.** Wasting the time of a staff member by falsly accusing another player without providing any real proof or reason is unnaceptable *especially* because of rage. 
 3. **Do not pretend to be a staff member.** Usurping the identity of an official Block Fortress staff member is not tolerated.
-4. **Do not attempt by any means to break the game.** You will be permanently banned if you have attempted to break the game or by DDoSiNg[^1] our servers for the sole purpose of killing the enjoyments for other players.
+4. **Do not attempt by any means to break the game.** You will be permanently banned if you have attempted to break the game or by DDoSing[^1] our servers for the sole purpose of killing the enjoyments for other players.
 5. **Do not attempt by any means to scam a player.** We will punish any user that attempts to scam a player outside of the game/community. Contact a staff member immediately if you are victim of scam.
 
 ## Our policy
@@ -43,4 +47,4 @@ The following guidelines have been created in order to ensure that our goals are
 
 Enjoy your time playing Block Fortress!
 
-[^1]: DDoSiNg means to send a lot of large packets using a specific IP Address to crash a targeted host.
+[^1]: Sending multiple large packets using a specific IP Address in order to crash that targeted IP.
