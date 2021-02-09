@@ -6,7 +6,8 @@ repo_name: blockfortress-docs
 extra_css:
   - stylesheets/extra.css
 plugins:
-  - git-revision-date
+  - git-revision-date-localized:
+      type: date
   - search
 theme:
   name: material
