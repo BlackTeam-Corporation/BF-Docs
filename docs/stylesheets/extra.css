@@ -13,9 +13,6 @@
 /*************************************************************************
 	Background Elements
 *************************************************************************/
-	/*	
-	--md-default-bg-color:               rgb(0, 0, 0); 
-	*/
 	--md-default-bg-color--light:        hsla(0, 0%, 33%, 0.7);
 	--md-default-bg-color--lighter:      hsla(0, 0%, 100%, 0.3);
 	--md-default-bg-color--lightest:     hsla(0, 0%, 100%, 0.12);
