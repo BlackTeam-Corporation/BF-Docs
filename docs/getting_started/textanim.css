@@ -1,0 +1,38 @@
+#animated {
+	background-color: transparent;
+	font-size: 14.08px;
+  }
+  
+  .rainbow {
+	animation: colorRotate .7s linear 0s infinite;
+  }
+  
+  @keyframes colorRotate {
+	from {
+	  color: #0000ff;
+	}
+	15% {
+	  color: #ff0000;
+	}
+	25% {
+	  color: #00ff00;
+	}
+	35% {
+	  color: #ffff00;
+	}
+	45% {
+	  color: #ffffff;
+	}
+	55% {
+	  color: #00ffff;
+	}
+	65% {
+	  color: #808080;
+	}
+	75% {
+	  color: #ffffff;
+	}
+	100% {
+	  color: #000000;
+	  }	  	  	
+  }

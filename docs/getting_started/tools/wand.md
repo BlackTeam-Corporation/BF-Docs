@@ -1,19 +1,16 @@
+The wand is a tool that can manipulate block when selected, with it you can use it to add, remove, copy and/or paste blocks.
 
-Add description
-
-## Commands
-
-| Value | Description |
-|--|--|
-| togglewand | Command to toggle the wand. |
-| wandreplace `block` | Replace the area that you selected with the shovel with a new block. |
-| wanddelete | Delete the blocks in the area you selected with the shovel. |
-| wandcopy | **Not yet available.** Copy the blocks you selected with the shovel. |
-| wandpaste | **Not yet available.** Paste the blocks that you have copied with the shovel. |
+### Usage
+| Attribute 	| Value 	| Description 																		| 
+|---------------|-----------|-----------------------------------------------------------------------------------|
+| `togglewand` 	| none 		| Toggle the wand on or off. 														|
+| `wandreplace`	| `<block>` | Replace the area that you selected with the shovel with a new block				| 
+| `wanddelete` 	| none 		| Delete the blocks in the area you selected with the shovel. 						|
+| `wandcopy` 	| none 		| **Not yet available.** ~~Copy the blocks you selected with the shovel.~~ 			|
+| `wandpaste` 	| none 		| **Not yet available.** ~~Paste the blocks that you have copied with the shovel.~~ | 
 
 
-## Blocks
-
+### Blocks
 | Block 							   | Name 				| Suggested 		| 
 |--------------------------------------|--------------------|-------------------|
 | ![](textures/Stoneend.png)  		   | Stoneend 			| metal1 			|

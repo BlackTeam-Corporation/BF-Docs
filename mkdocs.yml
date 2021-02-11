@@ -68,6 +68,7 @@ nav:
   - 'development/credits.md'
 - Getting Started:
   - 'getting_started/commands.md'
+  - 'getting_started/formatting.md'
   - Tools:
       - 'getting_started/tools/wand.md'
   - Private Servers:

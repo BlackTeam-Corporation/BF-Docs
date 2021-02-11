@@ -1,16 +1,12 @@
 # Commands
-!!! info
-	Take note that the current player command list is limited.
+List of commands (currently very limited) available to use, when writting a command you must use the `/` prefix before the value.
 
-List of commands available, use the `/` prefix first when writting a value in-game.
+??? example
+	```
+	/kill
+	```
 
-## Exemple
-```md
-/kill
-```
-
-## List
-
+### Commands
 | Value | Description |
 |--|--|
 | `kill` | Command to kill yourself in order to respawn or get unstuck from a place. |

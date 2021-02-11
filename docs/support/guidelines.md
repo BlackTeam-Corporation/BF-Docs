@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-![](../img/BlockFortressBeta.png){: height="500px" width="500px"}
+![](../img/BlockFortress_February.png){: height="500px" width="500px"}
 
 Here at BlackTeam Corporation we are striving to create a non-toxic and friendly environement for everyone to enjoy. 
 
