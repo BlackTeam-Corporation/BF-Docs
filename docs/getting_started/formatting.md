@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="/getting_started/textanim.css">
 
-# Chat Formatting
 ## Colored Text
 You can use a limited range of color when typing in the chat, simply use the `^` prefix followed by the text you wish to make colored.
 
@@ -20,3 +18,5 @@ You can use a limited range of color when typing in the chat, simply use the `^`
 |`^7` 	| <span style="color:#808080">**Grey**</span> 						|
 |`^8` 	| <span style="color:#000000">**White**</span> 						|
 |`^9` 	| <span style="color:#000000">**Black**</span></div> 				|
+
+<link rel="stylesheet" href="/script/textanim.css">

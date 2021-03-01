@@ -25,8 +25,9 @@ The following guidelines have been created in order to ensure that our goals are
 
 ## What to not do with your account
 
-!!! danger "You bear full responsability of your account!"
-	You will be punished even if an act was commited on your account by someone else. ^^**Remember to not share your account password with someone else.**^^
+!!! danger ""
+    You bear full responsability of the actions happening on your account. Do not share your password with anyone else, a staff member will never ask you for it. 
+
 1. **Do not promote and/or use any kinds of cheating software.** This is obvious to pretty much anyone but play fair and don't cheat, it is also recommended that you don't joke about owning a cheat.
 2. **Do not falsly accuse another player.** Wasting the time of a staff member by falsly accusing another player without providing any real proof or reason is unnaceptable *especially* because of rage. 
 3. **Do not pretend to be a staff member.** Usurping the identity of an official Block Fortress staff member is not tolerated.

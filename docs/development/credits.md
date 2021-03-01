@@ -22,7 +22,7 @@ Current BLOCKADE 3D assets existing in Block Fortress are property of their resp
 - <p style="text-align:left;">ErPiX<span style="float:right;"><small>Playermodel</small></p>
 - <p style="text-align:left;">Slastraf <span style="float:right;"><small>Playermodel</small></span></p>
 ### Artist
-- <p style="text-align:left;">Mathias Pepin-Leduc<span style="float:right;"><small>Player model concept</small></p>
+- <p style="text-align:left;">Mathias Pepin-Leduc<span style="float:right;"><small>Playermodel concept</small></p>
 - <p style="text-align:left;">koshevchuk<span style="float:right;"><small>UI concept</small></span></p>
 - <p style="text-align:left;">Nikolay Nikolaev<span style="float:right;"><small>AAC weapon sprite</small></span></p>
 - <p style="text-align:left;">ErPiX<span style="float:right;"><small>MP5, AK-47, AAC weapon sprites</small></span></span><br><span style="float:right;"><small>Texture</small></span></p></p><br>
