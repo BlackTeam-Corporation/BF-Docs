@@ -1,0 +1,25 @@
+[data-md-color-scheme="blockfortress"] {
+
+	/*Text*/
+	--md-default-fg-color:               hsla(0, 0%, 0%, 0.87);
+	/*Header & Table*/
+	--md-default-fg-color--light:        hsl(21, 83%, 54%);
+	/*Edit Button*/
+	--md-default-fg-color--lighter:      hsla(0, 0%, 0%, 0.32);
+	/*Codeblock Text*/
+	--md-code-fg-color:                hsla(200, 18%, 26%, 1);
+	/*Codeblock Background*/
+	--md-code-bg-color:                hsla(0, 0%, 96%, 1);
+	/*Primary Color*/
+	--md-primary-fg-color:               hsl(21, 83%, 54%);
+	/*Header Navigation*/	
+	--md-primary-bg-color:               hsla(0, 0%, 100%, 1);
+	/*Search Bar*/	
+	--md-primary-bg-color--light:        hsla(0, 0%, 100%, 0.7);
+	/*Overring Text*/
+	--md-accent-fg-color:                hsl(25, 87%, 37%);
+	/*Footer Navigation*/
+    --md-footer-bg-color:              hsl(25, 87%, 37%);
+	/*Footer*/
+    --md-footer-bg-color--dark:        hsl(0, 0%, 0%);
+}
